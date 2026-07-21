@@ -1,5 +1,7 @@
 # GenAI Client Intelligence
 
+**Live Demo:** [https://gen-ai-client-intelligence.vercel.app/](https://gen-ai-client-intelligence.vercel.app/)
+
 An AI-powered coaching dashboard prototype that automatically analyzes conversations between health coaches and clients. This tool extracts key metrics, flags risks, and tracks engagement, presenting them in a beautiful, human-in-the-loop review dashboard.
 
 ## Features
